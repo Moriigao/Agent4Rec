@@ -1,0 +1,55 @@
+# Agent4Rec
+Survey: A collection of AWESOME papers
+# Agent as Rec
+| **Model Name** | **Paper**                                                    | **Venue**          | **Year** |
+| :------------- | :----------------------------------------------------------- | :----------------- | :------- |
+| PUMA           | [Large Language Models Empowered Personalized Web Agents](https://arxiv.org/pdf/2410.17236) | WWW’25             | 2025     |
+| InstructAgent  | [InstructAgent: Building User Controllable Recommender via  LLMAgent](https://arxiv.org/pdf/2502.14662) | arxiv              | 2025     |
+| RecMind        | [RecMind: Large Language Model Powered Agent For Recommendation](https://arxiv.org/pdf/2308.14296) | arxiv              | 2024     |
+| InteRecAgent   | [Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations](https://arxiv.org/pdf/2308.16505) | arxiv              | 2024     |
+| Shuang et al.  | [An Extremely Data-efficient and Generative LLM-based Reinforcement Learning Agent for Recommenders](https://arxiv.org/pdf/2408.16032) | KDD’24             | 2024     |
+| RecAI          | [RecAI: Leveraging Large Language Models for Next-Generation Recommender Systems](https://arxiv.org/pdf/2403.06465) | WWW ’24            | 2024     |
+| ToolRec        | [Let Me Do It For You: Towards LLM Empowered Recommendation via Tool Learning](https://arxiv.org/pdf/2405.15114) | SIGIR ’24          | 2024     |
+| AutoConcierge  | [Automated Interactive Domain-Specific Conversational Agents that Understand Human Dialogs](https://arxiv.org/pdf/2303.08941) | arxiv              | 2023     |
+| MMAgentRec     | [MMAgentRec, a personalized multi-modal recommendation agent with large language model](https://www.nature.com/articles/s41598-025-96458-w) | Scientific Reports | 2025     |
+| MAS4POI        | [MAS4POI: a Multi-Agents Collaboration System  for Next POI Recommendation](https://arxiv.org/pdf/2409.13700) | SIGIR ’25          | 2025     |
+| AgentCF++      | [AgentCF++: Memory-enhanced LLM-based Agents for  Popularity-aware Cross-domain Recommendations](https://arxiv.org/pdf/2502.13843) | SIGIR ’25          | 2025     |
+| MACRec         | [MACRec: a Multi-Agent Collaboration Framework for Recommendation](https://arxiv.org/pdf/2402.15235) | SIGIR ’24          | 2024     |
+| BiLLP          | [Large Language Models are Learnable Planners for Long-Term  Recommendation](https://arxiv.org/pdf/2403.00843) | SIGIR ’24          | 2024     |
+| MACRS          | [A Multi-Agent Conversational Recommender System](https://arxiv.org/pdf/2402.01135) | arxiv              | 2024     |
+| PMS            | [Personalized Recommendation Systems using Multimodal, Autonomous, Multi Agent Systems](https://arxiv.org/pdf/2410.19855) | arxiv              | 2024     |
+| Rec4Agentverse | [Prospect Personalized Recommendation on Large Language Model-based Agent Platform](https://arxiv.org/pdf/2402.18240) | arxiv              | 2024     |
+| AgentCF        | [AgentCF: Collaborative Learning with Autonomous Language  Agents for Recommender Systems](https://arxiv.org/pdf/2310.09233) | arxiv              | 2023     |
+
+# Agent for Rec
+
+| **Model Name**   | **Paper**                                                    | **Venue** | **Year** |
+| :--------------- | :----------------------------------------------------------- | :-------- | :------- |
+| DrunkAgent       | [Get the Agents Drunk: Memory Perturbations in Autonomous  Agent-based Recommender Systems](https://arxiv.org/pdf/2503.23804) | arxiv     | 2025     |
+| iALP             | [Large Language Model driven Policy Exploration for  Recommender Systems](https://arxiv.org/pdf/2501.13816) | WSDM      | 2025     |
+| RuleAgent        | [RuleAgent: Discovering Rules for Recommendation Denoising  with Autonomous Language Agents](https://arxiv.org/pdf/2503.23374) | arxiv     | 2025     |
+| CSHI             | [A LLM-based Controllable, Scalable, Human-Involved User Simulator Framework for Conversational Recommender Systems](https://arxiv.org/pdf/2405.08035) | WWW’25    | 2024     |
+| RecAgent         | [User Behavior Simulation with Large Language Model based Agents](https://arxiv.org/pdf/2306.02552) | arxiv     | 2024     |
+| SUBER            | [SUBER: AnRLEnvironment with Simulated  HumanBehavior for Recommender Systems](https://arxiv.org/pdf/2406.01631) | arxiv     | 2024     |
+| SimpleUserSim    | [HowReliable is Your Simulator? Analysis on the Limitations of  Current LLM-based User Simulators for Conversational  Recommendation](https://arxiv.org/pdf/2403.16416) | WWW ’24   | 2024     |
+| Yoon et al.      | [Evaluating Large Language Models as Generative User Simulators for  Conversational Recommendation](https://arxiv.org/pdf/2403.09738) | arxiv     | 2024     |
+| CheatAgent       | [CheatAgent: Attacking LLM-Empowered Recommender Systems via LLM Agent](https://dl.acm.org/doi/10.1145/3637528.3671837) | KDD '24   | 2024     |
+| Zhang et al.     | [LLM-Powered User Simulator for Recommender System](https://arxiv.org/pdf/2412.16984) | AAAI'25   | 2024     |
+| USimAgent        | [USimAgent: Large Language Models for Simulating Search Users](https://arxiv.org/pdf/2403.09142) | SIGIR ’24 | 2024     |
+| CORE             | [Lending Interaction Wings to Recommender Systems with Conversational Agents](https://arxiv.org/pdf/2310.04230) | arxiv     | 2023     |
+| iEvaLM           | [Rethinking the Evaluation for Conversational Recommendation  in the Era of Large Language Models](https://arxiv.org/pdf/2305.13112) | EMNLP     | 2023     |
+| DiscomfortFilter | [Filtering discomforting recommendations with large language models](https://arxiv.org/pdf/2410.05411) | WWW’25    | 2025     |
+| TextSimu         | [ID-Free Not Risk-Free: LLM-Powered Agents Unveil Risks in  ID-Free Recommender Systems](https://arxiv.org/pdf/2409.11690v3) | SIGIR ’25 | 2025     |
+| KGLA             | [KGLA: Knowledge Graph Enhanced Language Agents for Recommendation](https://arxiv.org/pdf/2410.19627) | arxiv     | 2025     |
+| CreAgent         | [CreAgent: Towards Long-Term Evaluation of Recommender System under Platform-Creator Information Asymmetry](https://arxiv.org/pdf/2502.07307) | arxiv     | 2025     |
+| Agent4Rec        | [On Generative Agents in Recommendation](https://arxiv.org/pdf/2310.10108) | SIGIR ’24 | 2024     |
+| ChatCRS          | [Incorporating External Knowledge and Goal Guidance for LLM-based Conversational Recommender Systems](https://arxiv.org/pdf/2405.01868) | arxiv     | 2024     |
+| PEARL            | [PEARL: Preference Extraction with Exemplar Augmentation and Retrieval with LLM Agents](https://aclanthology.org/2024.emnlp-industry.112.pdf) | EMNLP     | 2024     |
+| RAH              | [RAH! RecSys-Assistant-Human: A Human-Centered Recommendation Framework with LLM Agents](https://arxiv.org/pdf/2308.09904) | TCSS’24   | 2023     |
+| OS-1             | [Can Large Language Models Be Good Companions? An LLM-Based  Eyewear System with Conversational Common Ground](https://arxiv.org/pdf/2311.18251) | IMWUT'24  | 2023     |
+
+# Agent in Rec
+| **Model Name** | **Paper**                                                    | **Venue** | **Year** |
+| :------------- | :----------------------------------------------------------- | :-------- | :------- |
+| AFL            | [Agentic Feedback Loop Modeling Improves Recommendation  and User Simulation](https://arxiv.org/pdf/2410.20027v2) | SIGIR ’25 | 2025     |
+| FLOW           | [FLOW: A Feedback LOop FrameWork for Simultaneously Enhancing Recommendation and User Agents](https://arxiv.org/pdf/2410.20027) | arxiv     | 2024     |
