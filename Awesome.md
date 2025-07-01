@@ -27,16 +27,16 @@ Survey: A collection of AWESOME papers
 
 | **Model Name**   | **Paper**                                                    | **Venue** | **Year** |
 | :--------------- | :----------------------------------------------------------- | :-------- | :------- |
-| DrunkAgent       | [Get the Agents Drunk: Memory Perturbations in Autonomous  Agent-based Recommender Systems](https://arxiv.org/pdf/2503.23804) | arxiv     | 2025     |
-| iALP             | [Large Language Model driven Policy Exploration for  Recommender Systems](https://arxiv.org/pdf/2501.13816) | WSDM  | 2025 |
-| RuleAgent        | [RuleAgent: Discovering Rules for Recommendation Denoising  with Autonomous Language Agents](https://arxiv.org/pdf/2503.23374) | arxiv     | 2025     |
-| RecUserSim | [RecUserSim: A Realistic and Diverse User Simulator for  Evaluating Conversational Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3701716.3715258) | WWW’25  | 2025 |
-| Lusifer | [Lusifer: LLM-based User Simulated Feedback  Environment For online Recommender systems](https://www.arxiv.org/pdf/2405.13362v4) | arxiv  | 2025 |
+| DrunkAgent    | [Get the Agents Drunk: Memory Perturbations in Autonomous  Agent-based Recommender Systems](https://arxiv.org/pdf/2503.23804) | arXiv   | 2025     |
+| iALP   | [Large Language Model driven Policy Exploration for  Recommender Systems](https://arxiv.org/pdf/2501.13816) | WSDM  | 2025 |
+| RuleAgent   | [RuleAgent: Discovering Rules for Recommendation Denoising  with Autonomous Language Agents](https://arxiv.org/pdf/2503.23374) | arXiv     | 2025     |
+| RecUserSim | [RecUserSim: A Realistic and Diverse User Simulator for  Evaluating Conversational Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3701716.3715258) | WWW | 2025 |
 | DiscomfortFilter | [Filtering discomforting recommendations with large language models](https://arxiv.org/pdf/2410.05411) | WWW’25    | 2025     |
 | Chirag Shah et al. | [Dynamic Evaluation Framework for Personalized and Trustworthy Agents: A Multi-Session Approach to Preference Adaptability](https://www.arxiv.org/pdf/2504.06277) | arxiv   | 2025     |
 | TextSimu         | [ID-Free Not Risk-Free: LLM-Powered Agents Unveil Risks in  ID-Free Recommender Systems](https://arxiv.org/pdf/2409.11690v3) | SIGIR ’25 | 2025     |
 | CreAgent         | [CreAgent: Towards Long-Term Evaluation of Recommender System under Platform-Creator Information Asymmetry](https://arxiv.org/pdf/2502.07307) | arxiv     | 2025     |
 | CSHI        | [A LLM-based Controllable, Scalable, Human-Involved User Simulator Framework for Conversational Recommender Systems](https://arxiv.org/pdf/2405.08035) | WWW’25    | 2024     |
+| Lusifer | [Lusifer: LLM-based User Simulated Feedback  Environment For online Recommender systems](https://www.arxiv.org/pdf/2405.13362v4) | arXiv  | 2024 |
 | RecAgent         | [User Behavior Simulation with Large Language Model based Agents](https://arxiv.org/pdf/2306.02552) | arxiv     | 2024     |
 | SUBER            | [SUBER: AnRLEnvironment with Simulated  HumanBehavior for Recommender Systems](https://arxiv.org/pdf/2406.01631) | arxiv     | 2024     |
 | SimpleUserSim    | [How Reliable is Your Simulator? Analysis on the Limitations of  Current LLM-based User Simulators for Conversational  Recommendation](https://arxiv.org/pdf/2403.16416) | WWW ’24   | 2024 |
