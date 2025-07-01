@@ -3,11 +3,11 @@ Survey: A collection of AWESOME papers
 # Agent as Rec
 | **Model Name** | **Paper**                                                    | **Venue**          | **Year** |
 | :------------- | :----------------------------------------------------------- | :----------------- | :------- |
-| PUMA           | [Large Language Models Empowered Personalized Web Agents](https://arxiv.org/pdf/2410.17236) | WWW’25   | 2025     |
+| PUMA           | [Large Language Models Empowered Personalized Web Agents](https://arxiv.org/pdf/2410.17236) | WWW  | 2025     |
 | iAgent  | [iAgent: LLM Agent as a Shield between User and Recommender Systems](https://arxiv.org/pdf/2502.14662) | ACL  | 2025     |
 | MMAgentRec    | [MMAgentRec, a personalized multi-modal recommendation agent with large language model](https://www.nature.com/articles/s41598-025-96458-w) | Scientific Reports | 2025 |
-| MATCHA  | [MATCHA:CanMulti-Agent Collaboration Build a Trustworthy  Conversational Recommender?](https://arxiv.org/pdf/2504.20094) | arxiv      | 2025     |
-| MAS4POI        | [MAS4POI: a Multi-Agents Collaboration System  for Next POI Recommendation](https://arxiv.org/pdf/2409.13700) | SIGIR ’25          | 2025     |
+| MATCHA  | [MATCHA:CanMulti-Agent Collaboration Build a Trustworthy  Conversational Recommender?](https://arxiv.org/pdf/2504.20094) | arXiv  | 2025     |
+| MAS4POI        | [MAS4POI: a Multi-Agents Collaboration System  for Next POI Recommendation](https://arxiv.org/pdf/2409.13700) | PAKDD      | 2024     |
 | RecMind        | [RecMind: Large Language Model Powered Agent For Recommendation](https://arxiv.org/pdf/2308.14296) | arxiv   | 2024  |
 | InteRecAgent   | [Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations](https://arxiv.org/pdf/2308.16505) | ACM TRANS | 2024 |
 | Shuang et al.  | [An Extremely Data-efficient and Generative LLM-based Reinforcement Learning Agent for Recommenders](https://arxiv.org/pdf/2408.16032) | KDD’24   | 2024     |
@@ -20,7 +20,7 @@ Survey: A collection of AWESOME papers
 | Yang Zhao et al. | [Multi-scenario combination based on multi-agent reinforcement learning to optimize the advertising recommendation system](https://www.arxiv.org/pdf/2407.02759v1) | IEEE | 2024     |
 | Rec4Agentverse | [Prospect Personalized Recommendation on Large Language Model-based Agent Platform](https://arxiv.org/pdf/2402.18240) | arxiv              | 2024     |
 | CSA   | [Contrastive State Augmentations for Reinforcement  Learning-Based Recommender Systems](https://www.arxiv.org/pdf/2305.11081) | SIGIR      | 2023     |
-| Chat-REC| [Chat-REC: Towards Interactive and Explainable  LLMs-Augmented Recommender System](https://www.arxiv.org/pdf/2303.14524) | arxiv      | 2023     |
+| Chat-REC| [Chat-REC: Towards Interactive and Explainable  LLMs-Augmented Recommender System](https://www.arxiv.org/pdf/2303.14524) | arXiv      | 2023     |
 | AutoConcierge  | [Automated Interactive Domain-Specific Conversational Agents that Understand Human Dialogs](https://arxiv.org/pdf/2303.08941) | PADL      | 2023     |
 
 # Agent for Rec
